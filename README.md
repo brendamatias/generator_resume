@@ -1,5 +1,5 @@
-<h1 align="center">🕹️ Nome do projeto</h1>
-<p align="center">Breve descrição.</p>
+<h1 align="center">📝 generator_resume</h1>
+<p align="center">Ferramenta para geração dinâmica de currículos em PDF.</p>
 
 <p align="center">
   🔗 <a href="https://url" target="_blank"><strong>Visualizar projeto</strong></a>
@@ -35,10 +35,10 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/brendamatias/seu-projeto.git
+git clone https://github.com/brendamatias/generator_resume.git
 
 # Acesse a pasta do projeto
-cd seu-projeto
+cd generator_resume
 
 # Instale as dependências
 npm install
